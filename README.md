@@ -1,2 +1,7 @@
-# Sistema-de-Gesti-n-para-un-Concesionario
-Sistema de Gestión para un Concesionario como proyecto base
+# AutoMarket API
+
+Sistema backend para la gestión de compra y venta de vehículos desarrollado con Java y Spring Boot.
+
+## Estado del proyecto
+
+🚧 En fase de análisis de requisitos.
