@@ -76,4 +76,8 @@ Los stakeholders representan las personas, grupos o entidades que tienen interé
 | Cliente | Persona interesada en adquirir un vehículo. | CRecibir una atención eficiente y acceder a información confiable sobre los vehículos disponibles. |
 | Área contable | Responsable de la gestión financiera. | Consultar información de ventas y facturación. |
 
-# 
+#  6. Actores del Sistema
+
+| Actor |	Responsabilidades |
+| Administrador |	Gestionar el sistema, usuarios, roles, vehículos, ventas e inventario. |
+| Vendedor |	Registrar clientes, consultar vehículos, gestionar ventas y actualizar el estado del inventario. |
