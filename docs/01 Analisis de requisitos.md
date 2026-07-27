@@ -79,5 +79,6 @@ Los stakeholders representan las personas, grupos o entidades que tienen interé
 #  6. Actores del Sistema
 
 | Actor |	Responsabilidades |
+|-------|---------------------|
 | Administrador |	Gestionar el sistema, usuarios, roles, vehículos, ventas e inventario. |
 | Vendedor |	Registrar clientes, consultar vehículos, gestionar ventas y actualizar el estado del inventario. |
