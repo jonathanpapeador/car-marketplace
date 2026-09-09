@@ -19,10 +19,10 @@ párrafo corto que explica qué estas proponiendo
 
 ## 2 Motivación
 
-<!--
-¿qué motiva esta decisión y por qué es importante?
-el propósito de esta sección es articular de una manera sencilla el valor de la decision que vamos a tomar
--->
+Actualmente, muchos concesionarios gestionan clientes, inventario, ventas y créditos mediante hojas de cálculo o herramientas independientes. Esta fragmentación provoca problemas recurrentes como duplicidad de datos, errores de registro, falta de trazabilidad y lentitud en los procesos administrativos, además de dificultar el control del inventario y la generación de reportes.
+La falta de un sistema centralizado también dificulta el seguimiento de clientes, la gestión de usuarios y el control de los permisos de acceso, afectando la eficiencia operativa e incrementando la probabilidad de errores humanos, y afectando la reputación, rentabilidad y confiabilidad de la gestión dentro de los concesionarios.
+En consecuencia, se requiere desarrollar un sistema de gestión que centralice la información y permita optimizar los procesos principales del concesionario de forma segura, organizada y escalable.
+El optar por este proyecto no solo puede ser de apoyo para los concesionarios, sino puede ser un prototipo escalable para cualquier proceso de gestión para cualquier empresa en cualquier nicho, lo que nos abre posibilidad de apoyo en el mercado.
 
 ## 3 Propuesta de implementación
 
