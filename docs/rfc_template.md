@@ -31,6 +31,7 @@ El proposito de esta sección se resume en:
 "Esta es la dirección en la que nos voy a llevar, alguién ve huecos en mi propuesta o tiene comentarios sobre cómo mejorarla?
 
  -->
+Se busca hacer un sistema donde cada concesionario tenga su entorno del sistema y bases de datos aislado, de esta manera el mentenimiento a uno de los entornos no afecta al resto.
 
 ## 4 Métricas
 
