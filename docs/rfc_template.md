@@ -1,7 +1,15 @@
-# Título (lee el source code del markdown para ver los comentarios)
+# Bochica[r]
+---
+En la búsqueda de una identidad que reflejara el verdadero propósito de nuestra plataforma, encontramos la respuesta en las raíces de la cultura precolombina colombiana, específicamente en la mitología Muisca. Elegimos el nombre **Bochica** porque representa, en su esencia más pura, la transformación del caos en orden.
+
+Según la tradición, *Bochica* fue un dios civilizador. Apareció para enseñar a la humanidad a organizarse, a establecer leyes, a construir y a tejer, brindando estructura a una sociedad que lo necesitaba para prosperar.
+
+Esa es exactamente la misión de nuestro software para la industria de los concesionarios. Sabemos que la gestión automotriz es un ecosistema complejo: múltiples sedes, rotación de inventarios, equipos de ventas, flujos de clientes y operaciones simultáneas. Sin la herramienta adecuada, la operación puede volverse caótica.
 
 Autores:
- - @githubusername
+ - @cromerosi
+ - @JulrR0d
+ - @jonathanpapeador
 
 ## 1 TL;DR
 
