@@ -14,6 +14,7 @@ Autores:
  - @jonathanpapeador
  - @cromerosi
  - @JulrR0d
+
 Fecha: 2026-09-10
  
 ## Estado
